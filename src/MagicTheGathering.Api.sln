@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MagicTheGathering.Api", "MagicTheGathering.Api\MagicTheGathering.Api.csproj", "{3833EEA9-FCE7-4357-AE3B-3F1A4708B0EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicTheGathering.Lib", "MagicTheGathering.Lib\MagicTheGathering.Lib.csproj", "{EB17EC91-E104-41A6-8321-29BC8FFD05FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3833EEA9-FCE7-4357-AE3B-3F1A4708B0EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3833EEA9-FCE7-4357-AE3B-3F1A4708B0EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3833EEA9-FCE7-4357-AE3B-3F1A4708B0EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3833EEA9-FCE7-4357-AE3B-3F1A4708B0EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB17EC91-E104-41A6-8321-29BC8FFD05FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB17EC91-E104-41A6-8321-29BC8FFD05FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB17EC91-E104-41A6-8321-29BC8FFD05FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB17EC91-E104-41A6-8321-29BC8FFD05FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEFD3727-6B33-4ED8-9CE9-A566D394FC1B}
+	EndGlobalSection
+EndGlobal
